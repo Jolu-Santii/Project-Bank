@@ -1,0 +1,93 @@
+[
+    {
+        "PID": "3131",
+        "PPID": "31676",
+        "Estado": "Finalizado",
+        "IDUsuario": 4309,
+        "IDCuenta": "CTA-B8A2ED0B",
+        "TipoUsuario": "Cliente",
+        "TipoCuenta": "estandar",
+        "Prioridad": 2,
+        "Destino": "Asesor",
+        "Operacion": "Consulta realizada",
+        "Timestamp": "21:08:27"
+    },
+    {
+        "PID": "5147",
+        "PPID": "31676",
+        "Estado": "Finalizado",
+        "IDUsuario": 8458,
+        "IDCuenta": "CTA-D01F27E0",
+        "TipoUsuario": "Cliente",
+        "TipoCuenta": "estandar",
+        "Prioridad": 2,
+        "Destino": "Asesor",
+        "Operacion": "Consulta realizada",
+        "Timestamp": "21:08:27"
+    },
+    {
+        "PID": "8310",
+        "PPID": "31676",
+        "Estado": "Finalizado",
+        "IDUsuario": 4737,
+        "IDCuenta": "CTA-28825B4D",
+        "TipoUsuario": "Cliente",
+        "TipoCuenta": "premium",
+        "Prioridad": 1,
+        "Destino": "Asesor",
+        "Operacion": "Consulta realizada",
+        "Timestamp": "21:08:27"
+    },
+    {
+        "PID": "9764",
+        "PPID": "31676",
+        "Estado": "Error",
+        "IDUsuario": 9799,
+        "IDCuenta": "CTA-EF29377F",
+        "TipoUsuario": "Cliente",
+        "TipoCuenta": "premium",
+        "Prioridad": 1,
+        "Destino": "Asesor",
+        "Operacion": "Error en deposito: actualizar_estado_pcb() got an unexpected keyword argument 'recurso_esperando'",
+        "Timestamp": "21:08:27"
+    },
+    {
+        "PID": "4980",
+        "PPID": "31676",
+        "Estado": "Finalizado",
+        "IDUsuario": 3471,
+        "IDCuenta": "CTA-1F2E3E7C",
+        "TipoUsuario": "Cliente",
+        "TipoCuenta": "premium",
+        "Prioridad": 1,
+        "Destino": "Ventanilla",
+        "Operacion": "Consulta realizada",
+        "Timestamp": "21:08:27"
+    },
+    {
+        "PID": "8586",
+        "PPID": "31676",
+        "Estado": "Finalizado",
+        "IDUsuario": null,
+        "IDCuenta": null,
+        "TipoUsuario": "Visitante",
+        "TipoCuenta": null,
+        "Prioridad": 2,
+        "Destino": "Ventanilla",
+        "Operacion": "Consulta realizada",
+        "Timestamp": "21:08:27"
+    },
+    {
+        "PID": "2552",
+        "PPID": "31676",
+        "Estado": "Finalizado",
+        "IDUsuario": null,
+        "IDCuenta": null,
+        "TipoUsuario": "Visitante",
+        "TipoCuenta": null,
+        "Prioridad": 2,
+        "Destino": "Asesor",
+        "Operacion": "Consulta realizada",
+        "Timestamp": "21:08:27"
+    }
+]

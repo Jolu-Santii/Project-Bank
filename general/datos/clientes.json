@@ -1,0 +1,37 @@
+[
+    {
+        "id_usuario": 4309,
+        "nombre": "Ing. Javier Chavarria",
+        "contrasena": "hTdPm6ERCRMn",
+        "num_telefono": "096-156-6563",
+        "direccion": "Calle Sri Lanka 842 Edif. 560 , Depto. 716, Vieja Eslovenia, ZAC 40422"
+    },
+    {
+        "id_usuario": 8458,
+        "nombre": "Lorenzo Valenzuela Garay",
+        "contrasena": "DfuTIw5l2osm",
+        "num_telefono": "985-408-2859",
+        "direccion": "Retorno Republica Centroafricana 464 Edif. 813 , Depto. 840, Nueva Finlandia, DF 68323-2297"
+    },
+    {
+        "id_usuario": 4737,
+        "nombre": "Abigail Rivas",
+        "contrasena": "XamdOaJ^JfGq",
+        "num_telefono": "944-650-3325",
+        "direccion": "Boulevard San Luis Potosi 514 Interior 424, Vieja Armenia, NAY 75577-7304"
+    },
+    {
+        "id_usuario": 9799,
+        "nombre": "Barbara Roybal Abreu",
+        "contrasena": "3an2FkSF4acm",
+        "num_telefono": "053-133-9906",
+        "direccion": "Boulevard Japon 676 Edif. 338 , Depto. 314, Nueva Zimbabwe, YUC 61876"
+    },
+    {
+        "id_usuario": 3471,
+        "nombre": "Alma Augusto Salas",
+        "contrasena": "mdSx5rYXc0er",
+        "num_telefono": "700-781-0545",
+        "direccion": "Privada Campeche 247 212, Nueva Republica de Moldova, COL 28402-1602"
+    }
+]
